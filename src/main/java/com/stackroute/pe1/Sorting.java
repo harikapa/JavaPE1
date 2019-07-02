@@ -1,5 +1,10 @@
 package com.stackroute.pe1;
 
+//Write a program which accepts a number as input from user and perform the following:
+//a. sort the number in non-increasing order
+//b. after sorting sum all the even numbers, the sum should be greater than 15 .
+//c. if sum is more than 15,then print output as true or false
+
 public class Sorting {
 
     public class Result {
@@ -11,7 +16,7 @@ public class Sorting {
     public Result sort(int number)
     {
         int tempnumber = number;
-        number = Math.abs(number);
+        number = Math.abs(number); //to handle negative numbers
         Result result = new Result();
         int temp = number;
         int count = 0;
@@ -27,13 +32,13 @@ public class Sorting {
         }
 
         int intArr[]= new int[count];
-        for(int i=0; temp > 0; i++)
+        for(int i=0; temp > 0; i++) // intializing individual digits into an array
         {
             intArr[i] = temp%10;
             temp = temp/10;
         }
 
-        for(int i=0; i < count; i++)
+        for(int i=0; i < count; i++) // sorting array elements using bubble sort
         {
             for(int j=i; j < count; j++)
             {
@@ -46,7 +51,7 @@ public class Sorting {
             }
         }
 
-        for(int i=0; i<count; i++)
+        for(int i=0; i<count; i++) //converting array to number
         {
             sortednumber = sortednumber*10 + intArr[i];
         }

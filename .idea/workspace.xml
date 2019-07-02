@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b8ba00e-bdbb-4d9e-81cd-6143a77731f4" name="Default Changelist" comment="" />
+    <list default="true" id="7b8ba00e-bdbb-4d9e-81cd-6143a77731f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/NumberSortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Classification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Classification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/EvenOrOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Iteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/PalindromeChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/PalindromeChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/RepeatNchar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/RepeatNchar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Sorting$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Sorting$Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/Sorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/StringReverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/SumOfIntArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/SumOfIntArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/VowelOrConsonant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sample/com/stackroute/pe1/VowelOrConsonant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/EvenOrOddTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/IterationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/IterationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/PalindromeCheckerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/PalindromeCheckerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOddChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/GuessTheRandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/GuessTheRandomNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/RepeatNchar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/RepeatNchar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/IterationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/IterationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,31 +48,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+            <state relative-caret-position="209">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
-                <marker date="1561482067841" expanded="true" signature="514:515" ph="..." />
+                <element signature="imports" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/RepeatNcharTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="333">
+              <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -47,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ClassificationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="325">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -59,19 +99,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOdd.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/GuessTheRandomNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SumOfIntArgumentsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="12">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,10 +111,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/VowelOrConsonantTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOddChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-332">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="314">
+              <caret line="22" column="59" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/NumberSortingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SortingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddCheckerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,29 +160,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/StringReverseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -130,6 +175,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,26 +197,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Pallendrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PallendromeChecker.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PallendromeCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOdd.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/VowelOrConsonantTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/IterationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SumOfIntArgumentsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ClassificationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sorting.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SortingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/GuessTheRandomNumber.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/GuessTheRandomNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/StringReverseTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/RepeatNcharTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/RepeatNchar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOddChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberIteration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberSorting.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/NumberSortingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/RepeatNchar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java" />
       </list>
     </option>
   </component>
@@ -184,48 +237,50 @@
     <option name="width" value="1400" />
     <option name="height" value="833" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -233,8 +288,8 @@
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -243,23 +298,23 @@
               <item name="pe1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -267,11 +322,83 @@
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="pe1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javape1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="hamcrest-all-1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="Javape1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="stackroute" type="462c0819:PsiDirectoryNode" />
               <item name="pe1" type="462c0819:PsiDirectoryNode" />
@@ -280,7 +407,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,6 +414,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.12.jar!/" />
@@ -316,7 +443,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RepeatNcharTest">
+  <component name="RunManager" selected="JUnit.ClassificationTest and 10 more">
     <configuration name="RepeatNchar" type="Application" factoryName="Application" singleton="false">
       <option name="MAIN_CLASS_NAME" value="main.java.com.stackroute.pe1.RepeatNchar" />
       <module name="Sample" />
@@ -326,22 +453,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessTheRandomNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.GuessTheRandomNumberTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="ClassificationTest and 10 more" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="TEST_OBJECT" value="pattern" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <patterns>
+        <pattern testClass="com.stackroute.pe1.ClassificationTest" />
+        <pattern testClass="com.stackroute.pe1.EvenOrOddCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.GuessTheRandomNumberTest" />
+        <pattern testClass="com.stackroute.pe1.IterationTest" />
+        <pattern testClass="com.stackroute.pe1.NumberSortingTest" />
+        <pattern testClass="com.stackroute.pe1.PalindromeCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.RepeatNcharTest" />
+        <pattern testClass="com.stackroute.pe1.SortingTest" />
+        <pattern testClass="com.stackroute.pe1.StringReverseTest" />
+        <pattern testClass="com.stackroute.pe1.SumOfIntArgumentsTest" />
+        <pattern testClass="com.stackroute.pe1.VowelOrConsonantTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatNcharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenOrOddCheckerTest.givenEvenNegativeNumberShouldReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <extension name="coverage">
         <pattern>
@@ -350,44 +484,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.RepeatNcharTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortingTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortingTest.givenCharShouldReturnSmallLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortingTest" />
-      <option name="METHOD_NAME" value="givenCharShouldReturnSmallLetter" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.EvenOrOddCheckerTest" />
+      <option name="METHOD_NAME" value="givenEvenNegativeNumberShouldReturnNull" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenOrOddCheckerTest.givenSmallNumberShouldReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sample" />
       <extension name="coverage">
         <pattern>
@@ -396,27 +500,122 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringReverseTest" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.EvenOrOddCheckerTest" />
+      <option name="METHOD_NAME" value="givenSmallNumberShouldReturnNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheckerTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.PalindromeCheckerTest" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <patterns>
+        <pattern testClass="com.stackroute.pe1.ClassificationTest" />
+        <pattern testClass="com.stackroute.pe1.EvenOrOddCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.GuessTheRandomNumberTest" />
+        <pattern testClass="com.stackroute.pe1.IterationTest" />
+        <pattern testClass="com.stackroute.pe1.NumberSortingTest" />
+        <pattern testClass="com.stackroute.pe1.PalindromeCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.RepeatNcharTest" />
+        <pattern testClass="com.stackroute.pe1.SortingTest" />
+        <pattern testClass="com.stackroute.pe1.StringReverseTest" />
+        <pattern testClass="com.stackroute.pe1.SumOfIntArgumentsTest" />
+        <pattern testClass="com.stackroute.pe1.VowelOrConsonantTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.PalindromeCheckerTest" />
+      <option name="METHOD_NAME" value="givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <patterns>
+        <pattern testClass="com.stackroute.pe1.ClassificationTest" />
+        <pattern testClass="com.stackroute.pe1.EvenOrOddCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.GuessTheRandomNumberTest" />
+        <pattern testClass="com.stackroute.pe1.IterationTest" />
+        <pattern testClass="com.stackroute.pe1.NumberSortingTest" />
+        <pattern testClass="com.stackroute.pe1.PalindromeCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.RepeatNcharTest" />
+        <pattern testClass="com.stackroute.pe1.SortingTest" />
+        <pattern testClass="com.stackroute.pe1.StringReverseTest" />
+        <pattern testClass="com.stackroute.pe1.SumOfIntArgumentsTest" />
+        <pattern testClass="com.stackroute.pe1.VowelOrConsonantTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheckerTest.givenNumberShouldReturnNotAPalindromeMessage" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.PalindromeCheckerTest" />
+      <option name="METHOD_NAME" value="givenNumberShouldReturnNotAPalindromeMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <patterns>
+        <pattern testClass="com.stackroute.pe1.ClassificationTest" />
+        <pattern testClass="com.stackroute.pe1.EvenOrOddCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.GuessTheRandomNumberTest" />
+        <pattern testClass="com.stackroute.pe1.IterationTest" />
+        <pattern testClass="com.stackroute.pe1.NumberSortingTest" />
+        <pattern testClass="com.stackroute.pe1.PalindromeCheckerTest" />
+        <pattern testClass="com.stackroute.pe1.RepeatNcharTest" />
+        <pattern testClass="com.stackroute.pe1.SortingTest" />
+        <pattern testClass="com.stackroute.pe1.StringReverseTest" />
+        <pattern testClass="com.stackroute.pe1.SumOfIntArgumentsTest" />
+        <pattern testClass="com.stackroute.pe1.VowelOrConsonantTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.RepeatNchar" />
-      <item itemvalue="JUnit.SortingTest.givenCharShouldReturnSmallLetter" />
-      <item itemvalue="JUnit.SortingTest" />
-      <item itemvalue="JUnit.GuessTheRandomNumberTest" />
-      <item itemvalue="JUnit.StringReverseTest" />
-      <item itemvalue="JUnit.RepeatNcharTest" />
+      <item itemvalue="JUnit.ClassificationTest and 10 more" />
+      <item itemvalue="JUnit.PalindromeCheckerTest" />
+      <item itemvalue="JUnit.PalindromeCheckerTest.givenNumberShouldReturnNotAPalindromeMessage" />
+      <item itemvalue="JUnit.EvenOrOddCheckerTest.givenEvenNegativeNumberShouldReturnNull" />
+      <item itemvalue="JUnit.EvenOrOddCheckerTest.givenSmallNumberShouldReturnNull" />
+      <item itemvalue="JUnit.PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RepeatNcharTest" />
-        <item itemvalue="JUnit.StringReverseTest" />
-        <item itemvalue="JUnit.GuessTheRandomNumberTest" />
-        <item itemvalue="JUnit.SortingTest" />
-        <item itemvalue="JUnit.SortingTest.givenCharShouldReturnSmallLetter" />
+        <item itemvalue="JUnit.PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" />
+        <item itemvalue="JUnit.EvenOrOddCheckerTest.givenEvenNegativeNumberShouldReturnNull" />
+        <item itemvalue="JUnit.EvenOrOddCheckerTest.givenSmallNumberShouldReturnNull" />
       </list>
     </recent_temporary>
   </component>
@@ -434,42 +633,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortingTest - 2019.06.26 at 10h 05m 06s.xml">
-      <configuration name="SortingTest" configurationId="JUnit" />
+    <history-entry file="PalindromeCheckerTest_givenNumberShouldReturnNotAPalindromeMessage - 2019.07.02 at 20h 08m 59s.xml">
+      <configuration name="PalindromeCheckerTest.givenNumberShouldReturnNotAPalindromeMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortingTest - 2019.06.26 at 10h 05m 25s.xml">
-      <configuration name="SortingTest" configurationId="JUnit" />
+    <history-entry file="PalindromeCheckerTest_givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25 - 2019.07.02 at 20h 10m 57s.xml">
+      <configuration name="PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuessTheRandomNumberTest - 2019.06.26 at 10h 58m 13s.xml">
-      <configuration name="GuessTheRandomNumberTest" configurationId="JUnit" />
+    <history-entry file="PalindromeCheckerTest_givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25 - 2019.07.02 at 20h 18m 46s.xml">
+      <configuration name="PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GuessTheRandomNumberTest - 2019.06.26 at 11h 00m 02s.xml">
-      <configuration name="GuessTheRandomNumberTest" configurationId="JUnit" />
+    <history-entry file="NumberSortingTest - 2019.07.02 at 21h 31m 25s.xml">
+      <configuration name="NumberSortingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringReverseTest - 2019.06.26 at 11h 30m 07s.xml">
-      <configuration name="StringReverseTest" configurationId="JUnit" />
+    <history-entry file="ClassificationTest_and_10_more - 2019.07.02 at 21h 35m 19s.xml">
+      <configuration name="ClassificationTest and 10 more" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringReverseTest - 2019.06.26 at 11h 38m 24s.xml">
-      <configuration name="StringReverseTest" configurationId="JUnit" />
+    <history-entry file="EvenOrOddCheckerTest_givenSmallNumberShouldReturnNull - 2019.07.02 at 21h 39m 20s.xml">
+      <configuration name="EvenOrOddCheckerTest.givenSmallNumberShouldReturnNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringReverseTest - 2019.06.26 at 11h 40m 54s.xml">
-      <configuration name="StringReverseTest" configurationId="JUnit" />
+    <history-entry file="EvenOrOddCheckerTest_givenEvenNegativeNumberShouldReturnNull - 2019.07.02 at 21h 39m 53s.xml">
+      <configuration name="EvenOrOddCheckerTest.givenEvenNegativeNumberShouldReturnNull" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringReverseTest - 2019.06.26 at 11h 41m 37s.xml">
-      <configuration name="StringReverseTest" configurationId="JUnit" />
+    <history-entry file="ClassificationTest_and_10_more - 2019.07.02 at 21h 40m 11s.xml">
+      <configuration name="ClassificationTest and 10 more" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatNcharTest - 2019.06.26 at 12h 32m 16s.xml">
-      <configuration name="RepeatNcharTest" configurationId="JUnit" />
+    <history-entry file="PalindromeCheckerTest - 2019.07.02 at 21h 41m 53s.xml">
+      <configuration name="PalindromeCheckerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatNcharTest - 2019.06.26 at 12h 32m 59s.xml">
-      <configuration name="RepeatNcharTest" configurationId="JUnit" />
+    <history-entry file="PalindromeCheckerTest_givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25 - 2019.07.02 at 21h 43m 51s.xml">
+      <configuration name="PalindromeCheckerTest.givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24613315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2669805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,15 +676,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275401" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32707775" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32841823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,7 +696,7 @@
       <window_info anchor="right" id="Maven" order="8" weight="0.32952252" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24075319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,6 +725,18 @@
       <window_info anchor="right" id="Maven" order="8" weight="0.32952252" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Sample$Main.ic" NAME="Main Coverage Results" MODIFIED="1561376071419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
@@ -541,45 +751,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/PalindromeCheckerTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="31" selection-start-line="11" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/RepeatNcharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/test/Sample/com/stackroute/pe1/PalindromeCheckerTest.class" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/IterationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
@@ -594,56 +766,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/GuessTheRandomNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/GuessTheRandomNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SumOfIntArgumentsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="532">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/VowelOrConsonantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/StringReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1562064902533" expanded="true" signature="868:869" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/RepeatNchar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/GuessTheRandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-920" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="28" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/NumberSortingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SortingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="608">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#227#228#0" expanded="true" />
@@ -654,38 +886,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/StringReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Classification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ClassificationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="325">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -695,47 +903,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOdd.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/GuessTheRandomNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/VowelOrConsonantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-332">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="12">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelOrConsonant.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/RepeatNcharTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfIntArguments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="333">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding>
-            <marker date="1561482067841" expanded="true" signature="514:515" ph="..." />
+            <element signature="imports" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SumOfIntArgumentsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/EvenOrOddChecker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="314">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/EvenOrOddCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
         </state>
       </provider>
     </entry>

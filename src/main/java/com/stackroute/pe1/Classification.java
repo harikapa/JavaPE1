@@ -1,23 +1,32 @@
 package com.stackroute.pe1;
 
+//Write a program that takes a character from the user as input and determines whether the
+//character entered is a capital letter, a small case letter, a digit or a special symbol and display
+//appropriately.
+
 public class Classification {
 
     public String getCharType(char character)
     {
-        if((character >= 'a' && character <= 'z') || (character >= 'A' && character <= 'Z'))
+        String charType;
+
+        if(Character.isLowerCase(character))
         {
-            if(character >= 'a')
-            return "Small letter";
-            else
-                return "Capital letter";
+            charType = "Small letter";
         }
-        else if(character >= '0' && character <= '9')
+        else if(Character.isUpperCase(character))
         {
-            return "Digit";
+            charType = "Capital letter";
+        }
+        else if(Character.isDigit(character))
+        {
+            charType = "Digit";
         }
         else
         {
-            return "Special character";
+            charType = "Special character";
         }
+
+        return charType;
     }
 }

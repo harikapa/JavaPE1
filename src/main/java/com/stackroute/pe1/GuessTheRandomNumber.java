@@ -3,7 +3,7 @@ package com.stackroute.pe1;
 public class GuessTheRandomNumber {
 
     public String playguessingGame(int guessedNumber, int userInput) {
-//        Random random = new Random();
+//      Random random = new Random();
 //        int number = random.nextInt(50);
 //        int userInput = 0;
 //        Scanner scanner = new Scanner(System.in);

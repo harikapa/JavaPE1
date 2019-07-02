@@ -9,12 +9,12 @@ import static org.junit.Assert.*;
 public class IterationTest {
 
 
-    Iteration iteration;
+    NumberIteration iteration;
 
     @Before
     public void setUp()
     {
-        iteration = new Iteration();
+        iteration = new NumberIteration();
     }
 
     @After

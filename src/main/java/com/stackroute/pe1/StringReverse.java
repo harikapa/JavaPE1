@@ -1,17 +1,19 @@
 package com.stackroute.pe1;
 
+//Write a program to reverse any string without using String Buffer
+
 public class StringReverse {
 
     public String reverse(String word){
         try
         {
-            String rev = "";
+            String reverse = "";
             int length = word.length();
             for(int i=length-1; i >= 0; i--)
             {
-                rev += word.charAt(i);
+                reverse += word.charAt(i);
             }
-            return rev;
+            return reverse;
         }
         catch (Exception exception)
         {

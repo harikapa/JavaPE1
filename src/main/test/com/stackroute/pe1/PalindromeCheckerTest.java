@@ -29,6 +29,14 @@ public class PalindromeCheckerTest {
     }
 
     @Test
+    public void givenNegativeNumberShouldReturnNotAPalindromeMessage()
+    {
+        String result = palindromeChecker.checkPalindromeAndGetEvenSum(-12345);
+
+        assertEquals("-12345 is not palindrome", result);
+    }
+
+    @Test
     public void givenNumberShouldReturnNotAPalindromeMessage()
     {
         String result = palindromeChecker.checkPalindromeAndGetEvenSum(12345);
@@ -42,6 +50,14 @@ public class PalindromeCheckerTest {
         String result = palindromeChecker.checkPalindromeAndGetEvenSum(123321);
 
         assertEquals("123321 is palindrome and sum of even numbers is less than 25", result);
+    }
+
+    @Test
+    public void givenNegativeNumberShouldReturnPalindromeMessageAndSumLessThan25()
+    {
+        String result = palindromeChecker.checkPalindromeAndGetEvenSum(-123321);
+
+        assertEquals("-123321 is palindrome and sum of even numbers is less than 25", result);
     }
 
 }
